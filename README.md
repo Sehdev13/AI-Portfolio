@@ -1,5 +1,6 @@
 # Hello, I'm Sehdev  
 <a href="https://www.linkedin.com/in/sehdev-singh"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
 A passionate AI and data enthusiast focused on building practical machine learning, NLP, and intelligent web applications. I enjoy working on projects that combine data analysis, predictive modeling, user-centered design, and real-world problem solving.
 
 ## Objective
