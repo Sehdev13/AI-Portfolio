@@ -53,11 +53,6 @@ A full-stack AI fitness web app that gamifies workout tracking using RPG mechani
 - CompTIA Security+
 - CompTIA A+
 
-## Education
-
-**Bachelor of Technology in Electronics and Computer Engineering**  
-CGPA: 9.03
-
 ## About
 
 This repository showcases my Artificial Intelligence, Machine Learning, NLP, data analytics, and intelligent application development projects.
