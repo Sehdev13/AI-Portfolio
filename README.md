@@ -45,7 +45,7 @@ A machine learning-powered cybersecurity web application that analyzes network t
 ### [Nashville Sentiment Audit](https://github.com/Sehdev13/nashville-sentiment-audit)
 A large-scale NLP and analytics project using 451,000+ Yelp reviews from Nashville businesses. The project applies sentiment classification, complaint clustering, and Power BI dashboarding to generate business insights and identify root causes of negative customer experiences.
 
-### [FitQuest — AI-Powered Fitness RPG](https://github.com/Sehdev13/FitQuest-AI-Powered-Fitness-RPG-)
+### [FitQuest - AI-Powered Fitness RPG](https://github.com/Sehdev13/FitQuest-AI-Powered-Fitness-RPG-)
 A full-stack AI fitness web app that gamifies workout tracking using RPG mechanics, TensorFlow.js-based in-browser machine learning, Firebase, and an LLM-powered coaching assistant for personalized recommendations and adaptive training support.
 
 ## Certifications
